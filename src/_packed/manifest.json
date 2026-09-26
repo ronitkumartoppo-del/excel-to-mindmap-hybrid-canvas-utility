@@ -1,0 +1,13 @@
+[
+  {"path": "src/App.tsx", "pack": "src/_packed/src__App.tsx.b64gz", "bytes": 134398},
+  {"path": "src/components/MindMapCanvas.tsx", "pack": "src/_packed/src__components__MindMapCanvas.tsx.b64gz", "bytes": 83809},
+  {"path": "src/components/TableView.tsx", "pack": "src/_packed/src__components__TableView.tsx.b64gz", "bytes": 51031},
+  {"path": "src/components/BoardView.tsx", "pack": "src/_packed/src__components__BoardView.tsx.b64gz", "bytes": 24776},
+  {"path": "src/components/CalendarView.tsx", "pack": "src/_packed/src__components__CalendarView.tsx.b64gz", "bytes": 42482},
+  {"path": "src/components/VibeView.tsx", "pack": "src/_packed/src__components__VibeView.tsx.b64gz", "bytes": 31262},
+  {"path": "src/components/FloatingActionMenu.tsx", "pack": "src/_packed/src__components__FloatingActionMenu.tsx.b64gz", "bytes": 9451},
+  {"path": "src/components/DependencyModal.tsx", "pack": "src/_packed/src__components__DependencyModal.tsx.b64gz", "bytes": 10509},
+  {"path": "src/components/DependencyLockModal.tsx", "pack": "src/_packed/src__components__DependencyLockModal.tsx.b64gz", "bytes": 10513},
+  {"path": "src/utils/layout.ts", "pack": "src/_packed/src__utils__layout.ts.b64gz", "bytes": 41207},
+  {"path": "src/templates.ts", "pack": "src/_packed/src__templates.ts.b64gz", "bytes": 44505}
+]
