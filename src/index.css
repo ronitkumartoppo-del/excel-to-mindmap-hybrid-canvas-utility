@@ -8,6 +8,19 @@
     padding-top: 8px;
     padding-bottom: 8px;
   }
+
+  #whiteboard-canvas-viewport {
+    touch-action: none;
+  }
+
+  .mobile-inspector-overlay {
+    position: absolute !important;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    max-width: 100%;
+    width: min(350px, 100%) !important;
+  }
 }
 
 @theme {
